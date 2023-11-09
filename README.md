@@ -14,6 +14,13 @@
 - 选择Overleaf编译器为**XeLaTeX**
 - 根据需求修改模板，编译即可
 
+## 常见问题
+- Overleaf整行注释：Ctrl+/
+- 编译报错请确认选择编译器为**XeLaTeX**
+- 如遇到output.pdf无法预览，请关闭外部下载插件
+
+
+
 ## 项目说明
 1. 适配自动化学报[LaTeX论文模板](http://www.aas.net.cn/news/lunwenmoban.htm)
 2. 支持XeLaTeX编译
